@@ -4,5 +4,4 @@ General representation –
             a = b op c
 Where a, b or c represents operands like names, constants or compiler generated temporaries and op represents the operator
 
-Here, Three Address Code for   a. Case Statement    b. While Loop are attached
-
+Here, Three Address Codes for   a. Case Statement    b. While Loop are attached
