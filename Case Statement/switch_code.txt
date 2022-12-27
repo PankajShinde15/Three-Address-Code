@@ -1,0 +1,10 @@
+ch=a
+switch(ch)
+{
+	case a : 
+		c = 1
+		break
+	case b : 
+		c = 2
+		break,
+}
